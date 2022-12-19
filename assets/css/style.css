@@ -229,7 +229,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("/assets/img/code.jpeg") top center;
+  background: url("/assets/img/code.jpeg") ;
   background-size: cover;
 }
 
