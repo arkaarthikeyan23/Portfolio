@@ -224,8 +224,8 @@ h6 {
   height: 100vh;
   /* background-image: url("../img/code.jpeg"); */
 
-  background: rgb(2,0,36);
-  background: linear-gradient(to right bottom, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 61%, rgb(0, 0, 0) 100%);
+  background-color: rgb(2,0,36);
+  background-color: linear-gradient(to right bottom, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 61%, rgb(0, 0, 0) 100%);
   padding-left:5rem;
   background-size: cover;
 }
