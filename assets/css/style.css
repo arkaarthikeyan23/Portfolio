@@ -229,7 +229,10 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background-image: url("../img/code.jpeg");
+  /* background-image: url("../img/code.jpeg"); */
+
+  background-color: #1f5297;
+  padding-left:1rem;
   background-size: cover;
 }
 
